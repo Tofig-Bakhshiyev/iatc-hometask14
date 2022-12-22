@@ -1,6 +1,6 @@
 var travel = [
-    ["Vusal","Hafiz","Rza"],
-    ["Ruslan","Aysel","Fatime",
+    ["Hamza","Hafiz","Huseyn"],
+    ["Tofiq","Aysel","Fatime",
         [
         'Tahire ve Aynur', true, "2+2", [
             "Maraqlı"
